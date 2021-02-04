@@ -15,7 +15,7 @@
   -->
 
 <resources>
-    <string name="app_name">Unscramble</string>
+    <string name="app_name">Unscramble Word</string>
     <string name="instructions">Unscramble the word using all the letters.</string>
     <string name="skip">Skip</string>
     <string name="submit">Submit</string>
